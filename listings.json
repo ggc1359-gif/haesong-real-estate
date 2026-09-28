@@ -1,4 +1,15 @@
 {
-  "updatedAt": null,
-  "listings": []
+  "updatedAt": "2026-09-28T06:08:43.524Z",
+  "listings": [
+    {
+      "id": "P-1055",
+      "type": "오피스텔",
+      "deal": "매매",
+      "price": "8억2천",
+      "address": "수원시 영통구 법조로38",
+      "area": "84.86",
+      "floor": "고층/40층",
+      "note": "호수뷰"
+    }
+  ]
 }
